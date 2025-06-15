@@ -13,7 +13,7 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.20000000298023224
+      "zones": 0.800000011920929
     },
     "selection_filter": {
       "dimensions": false,
@@ -28,8 +28,28 @@
       "vias": true,
       "zones": true
     },
-    "visible_items": [],
-    "visible_layers": "e005075_ff57ffff",
+    "visible_items": [
+      "vias",
+      "footprint_text",
+      "footprint_anchors",
+      "ratsnest",
+      "grid",
+      "footprints_front",
+      "footprints_back",
+      "footprint_values",
+      "footprint_references",
+      "tracks",
+      "drc_errors",
+      "drawing_sheet",
+      "bitmaps",
+      "pads",
+      "zones",
+      "drc_warnings",
+      "locked_item_shadows",
+      "conflict_shadows",
+      "shapes"
+    ],
+    "visible_layers": "00000000_00000000_0e005075_ff57ffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -40,7 +60,7 @@
   },
   "meta": {
     "filename": "usbhub_c4.kicad_prl",
-    "version": 3
+    "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
