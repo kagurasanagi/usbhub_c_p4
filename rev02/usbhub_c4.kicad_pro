@@ -634,7 +634,7 @@
           "group_by": false,
           "label": "説明",
           "name": "Description",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,

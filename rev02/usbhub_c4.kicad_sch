@@ -3915,6 +3915,12 @@
 		(uuid "018dfcd2-4b58-45e5-b3d3-6c815039b000")
 	)
 	(junction
+		(at 182.88 245.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05263112-d443-4915-b873-022c5fcc5270")
+	)
+	(junction
 		(at 96.52 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4045,6 +4051,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "34e76f83-fcca-4030-91a1-97e44c3eaa2b")
+	)
+	(junction
+		(at 182.88 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3553f946-5971-48a0-929b-f770ac63065c")
 	)
 	(junction
 		(at 205.74 59.69)
@@ -4275,18 +4287,6 @@
 		(uuid "92cd554e-d7c6-4af7-a989-05dfc9e8fb7e")
 	)
 	(junction
-		(at 191.77 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "93607553-4316-49b1-876a-c8c5ea0f4be8")
-	)
-	(junction
-		(at 191.77 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95d44da0-0bcc-43e2-8e74-2e17d4308b40")
-	)
-	(junction
 		(at 217.17 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4383,6 +4383,12 @@
 		(uuid "baa98879-b9ce-4f13-9ae6-031548c3fff7")
 	)
 	(junction
+		(at 182.88 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bfc55ca7-b7a5-41c6-b1a3-c21b9aea4c1b")
+	)
+	(junction
 		(at 121.92 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4449,12 +4455,6 @@
 		(uuid "daa43b57-5ebc-4583-9444-190e29b69192")
 	)
 	(junction
-		(at 190.5 245.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dcf85b8b-95c3-421f-8988-0e8ed809e1c6")
-	)
-	(junction
 		(at 121.92 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4471,12 +4471,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ebbda233-f7c8-48f8-8aa1-1cacb0e2bb9d")
-	)
-	(junction
-		(at 190.5 182.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ee6b6ee7-4cef-4037-8fca-920925fe3e93")
 	)
 	(junction
 		(at 250.19 41.91)
@@ -4508,8 +4502,14 @@
 		(color 0 0 0 0)
 		(uuid "fabb5f47-8e0d-4090-88cf-7439774fbc27")
 	)
+	(junction
+		(at 182.88 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff76c444-9743-46d8-8b28-c888f8e78cd5")
+	)
 	(no_connect
-		(at 187.96 262.89)
+		(at 193.04 254)
 		(uuid "26740b92-984d-4100-8e15-78650abff838")
 	)
 	(no_connect
@@ -4521,7 +4521,7 @@
 		(uuid "3584dae9-4b2c-4a1a-b49f-7e559fb29b06")
 	)
 	(no_connect
-		(at 189.23 137.16)
+		(at 194.31 128.27)
 		(uuid "4377aa79-5d71-4355-b44e-7372a2be249a")
 	)
 	(no_connect
@@ -4537,7 +4537,7 @@
 		(uuid "7bf6a19f-7bdf-4598-a432-f746459ebc28")
 	)
 	(no_connect
-		(at 189.23 74.93)
+		(at 194.31 66.04)
 		(uuid "9e906276-1265-43fc-b84e-10a6bfeafbe5")
 	)
 	(no_connect
@@ -4545,7 +4545,7 @@
 		(uuid "de594e81-474e-4978-b9d0-bbf94a664380")
 	)
 	(no_connect
-		(at 187.96 200.66)
+		(at 193.04 191.77)
 		(uuid "f247aead-b97c-409b-ba8e-abe0f4c1bc8d")
 	)
 	(wire
@@ -4577,16 +4577,6 @@
 			(type default)
 		)
 		(uuid "03669283-ea19-48a2-b97e-b64a04febbfa")
-	)
-	(wire
-		(pts
-			(xy 190.5 182.88) (xy 204.47 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0489ae66-3488-46a2-b72b-8d588783f61a")
 	)
 	(wire
 		(pts
@@ -5190,16 +5180,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 255.27) (xy 199.39 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35d4ac6b-e073-4c29-8fcb-ec85916cddec")
-	)
-	(wire
-		(pts
 			(xy 111.76 243.84) (xy 121.92 243.84)
 		)
 		(stroke
@@ -5470,7 +5450,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 245.11) (xy 190.5 245.11)
+			(xy 180.34 245.11) (xy 182.88 245.11)
 		)
 		(stroke
 			(width 0)
@@ -6020,16 +6000,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 255.27) (xy 204.47 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70b99d64-3d6f-4f60-b3ae-db9e73574f09")
-	)
-	(wire
-		(pts
 			(xy 132.08 200.66) (xy 132.08 201.93)
 		)
 		(stroke
@@ -6037,16 +6007,6 @@
 			(type default)
 		)
 		(uuid "70bb1c78-eef9-4bff-a0a7-4ac40539df22")
-	)
-	(wire
-		(pts
-			(xy 200.66 67.31) (xy 200.66 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7474dde6-d5b4-41f9-9ead-d56103297e8e")
 	)
 	(wire
 		(pts
@@ -6137,16 +6097,6 @@
 			(type default)
 		)
 		(uuid "7ce0bd6f-962b-4563-aa00-005996c9a85f")
-	)
-	(wire
-		(pts
-			(xy 200.66 129.54) (xy 205.74 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7cf5fb0f-972a-4ded-91cc-809f26bea330")
 	)
 	(wire
 		(pts
@@ -6300,16 +6250,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 129.54) (xy 200.66 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e468cf3-9c58-4c2f-b33a-d06408c3b77b")
-	)
-	(wire
-		(pts
 			(xy 35.56 95.25) (xy 38.1 95.25)
 		)
 		(stroke
@@ -6410,16 +6350,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 67.31) (xy 205.74 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97874004-6a4e-4f46-b3ba-e8b11ae351f4")
-	)
-	(wire
-		(pts
 			(xy 255.27 139.7) (xy 255.27 140.97)
 		)
 		(stroke
@@ -6447,16 +6377,6 @@
 			(type default)
 		)
 		(uuid "98df23d3-df62-4a3d-a48b-a3744e7e4bed")
-	)
-	(wire
-		(pts
-			(xy 190.5 245.11) (xy 204.47 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "996c0c12-8d98-453c-9666-e8d3d5a4e4fe")
 	)
 	(wire
 		(pts
@@ -6640,6 +6560,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 119.38) (xy 205.74 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a49154ec-01ff-4efa-8ad0-bdc472b1bcd8")
+	)
+	(wire
+		(pts
 			(xy 82.55 196.85) (xy 78.74 196.85)
 		)
 		(stroke
@@ -6697,16 +6627,6 @@
 			(type default)
 		)
 		(uuid "aad11ffc-e73e-4f14-b370-5e32e1cbb34c")
-	)
-	(wire
-		(pts
-			(xy 199.39 193.04) (xy 204.47 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab8edd67-9397-4186-8710-2d3b4474d176")
 	)
 	(wire
 		(pts
@@ -6890,6 +6810,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 245.11) (xy 204.47 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bde6aa17-74f8-4e91-a23e-2d0af9851145")
+	)
+	(wire
+		(pts
 			(xy 57.15 179.07) (xy 57.15 171.45)
 		)
 		(stroke
@@ -6920,7 +6850,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 57.15) (xy 191.77 57.15)
+			(xy 181.61 57.15) (xy 182.88 57.15)
 		)
 		(stroke
 			(width 0)
@@ -6990,16 +6920,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 119.38) (xy 205.74 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8b9afff-5df1-444f-af3b-aa2e5768fd74")
-	)
-	(wire
-		(pts
 			(xy 227.33 252.73) (xy 254 252.73)
 		)
 		(stroke
@@ -7040,7 +6960,17 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 182.88) (xy 190.5 182.88)
+			(xy 182.88 57.15) (xy 205.74 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbe9c4eb-dc98-4bc6-9cac-038906b1f308")
+	)
+	(wire
+		(pts
+			(xy 180.34 182.88) (xy 182.88 182.88)
 		)
 		(stroke
 			(width 0)
@@ -7087,16 +7017,6 @@
 			(type default)
 		)
 		(uuid "d171f54b-51cf-426b-9003-c15cdc8c9176")
-	)
-	(wire
-		(pts
-			(xy 199.39 193.04) (xy 199.39 201.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d17f5a89-3315-470e-8895-fa339df5ce5d")
 	)
 	(wire
 		(pts
@@ -7147,16 +7067,6 @@
 			(type default)
 		)
 		(uuid "d43ebfc6-d172-4bfe-b198-a0d04a17c984")
-	)
-	(wire
-		(pts
-			(xy 185.42 62.23) (xy 191.77 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4531da4-0475-4b24-a9a0-110d301c64ec")
 	)
 	(wire
 		(pts
@@ -7350,16 +7260,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 57.15) (xy 205.74 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e226e98f-62f3-4743-97ba-a74fa8bfaff5")
-	)
-	(wire
-		(pts
 			(xy 205.74 59.69) (xy 205.74 62.23)
 		)
 		(stroke
@@ -7397,6 +7297,16 @@
 			(type default)
 		)
 		(uuid "e47c85ce-b3fe-4ac0-92cf-cd6a61966d70")
+	)
+	(wire
+		(pts
+			(xy 182.88 182.88) (xy 204.47 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4b8e716-5d0c-4ce1-b43f-b3676698b33a")
 	)
 	(wire
 		(pts
@@ -7480,7 +7390,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 119.38) (xy 191.77 119.38)
+			(xy 181.61 119.38) (xy 182.88 119.38)
 		)
 		(stroke
 			(width 0)
@@ -7709,7 +7619,7 @@
 		(uuid "fdd65abc-7880-482f-9cd2-046c7a0ab4bb")
 	)
 	(label "VCC_{5V}"
-		(at 194.31 133.35 180)
+		(at 199.39 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7879,7 +7789,7 @@
 		(uuid "307ff003-95eb-4483-91ac-d014aa231d4a")
 	)
 	(label "~{PPON}_{2}"
-		(at 189.23 139.7 180)
+		(at 194.31 130.81 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7949,7 +7859,7 @@
 		(uuid "37eb7f77-4031-4a52-b477-7d5b0226fd81")
 	)
 	(label "VCC_{5V}"
-		(at 194.31 71.12 180)
+		(at 199.39 62.23 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7999,7 +7909,7 @@
 		(uuid "3f7751d3-731a-44cc-b512-1c21a20d9724")
 	)
 	(label "~{PPON}_{4}"
-		(at 187.96 265.43 180)
+		(at 193.04 256.54 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8049,7 +7959,7 @@
 		(uuid "5b1b5d21-f4a2-4921-8cef-f62fac3fc4e6")
 	)
 	(label "VCC_{5V}"
-		(at 193.04 196.85 180)
+		(at 198.12 187.96 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8089,7 +7999,7 @@
 		(uuid "63808a86-2b90-4edd-a7de-908e45dd4b6b")
 	)
 	(label "~{PPON}_{3}"
-		(at 187.96 203.2 180)
+		(at 193.04 194.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8149,7 +8059,7 @@
 		(uuid "6f0e756a-b83c-4556-bb34-46b78a794b5c")
 	)
 	(label "~{PPON}_{1}"
-		(at 189.23 77.47 180)
+		(at 194.31 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8539,7 +8449,7 @@
 		(uuid "c9549e5d-462d-4a49-b11d-8a8c4a355f1b")
 	)
 	(label "VCC_{5V}"
-		(at 193.04 259.08 180)
+		(at 198.12 250.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9603,7 +9513,7 @@
 	)
 	(symbol
 		(lib_id "_platinumegg:TC7SH00FU")
-		(at 193.04 201.93 0)
+		(at 198.12 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9611,7 +9521,7 @@
 		(dnp no)
 		(uuid "198a79c8-32c7-40a2-aba6-de56ade49a44")
 		(property "Reference" "U6"
-			(at 189.23 205.74 0)
+			(at 194.31 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9619,8 +9529,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TC7SH00FU"
-			(at 189.23 208.28 0)
+		(property "Value" "TC7S04FU"
+			(at 194.31 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9629,7 +9539,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 194.31 201.93 0)
+			(at 199.39 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9637,8 +9547,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g115748/"
-			(at 194.31 220.98 0)
+		(property "Datasheet" "https://toshiba.semicon-storage.com/info/TC7S04FU_datasheet_ja_20140301.pdf?did=20187&prodName=TC7S04FU"
+			(at 199.39 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9646,8 +9556,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single NAND Gate, Low-Voltage CMOS"
-			(at 193.04 201.93 0)
+		(property "Description" ""
+			(at 198.12 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10603,7 +10513,7 @@
 	)
 	(symbol
 		(lib_id "_platinumegg:TC7SH00FU")
-		(at 193.04 264.16 0)
+		(at 198.12 255.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10611,7 +10521,7 @@
 		(dnp no)
 		(uuid "31c54472-ec79-43e1-8105-94a601d68035")
 		(property "Reference" "U7"
-			(at 189.23 267.97 0)
+			(at 194.31 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10619,8 +10529,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TC7SH00FU"
-			(at 189.23 270.51 0)
+		(property "Value" "TC7S04FU"
+			(at 194.31 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10629,7 +10539,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 194.31 264.16 0)
+			(at 199.39 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10637,8 +10547,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g115748/"
-			(at 194.31 283.21 0)
+		(property "Datasheet" "https://toshiba.semicon-storage.com/info/TC7S04FU_datasheet_ja_20140301.pdf?did=20187&prodName=TC7S04FU"
+			(at 199.39 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10646,8 +10556,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single NAND Gate, Low-Voltage CMOS"
-			(at 193.04 264.16 0)
+		(property "Description" ""
+			(at 198.12 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11053,7 +10963,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 190.5 187.96 0)
+		(at 182.88 187.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11061,7 +10971,7 @@
 		(dnp no)
 		(uuid "37cfb2d1-a818-4de2-9e37-d357f378df1e")
 		(property "Reference" "#PWR030"
-			(at 190.5 194.31 0)
+			(at 182.88 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11070,7 +10980,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 190.5 191.77 0)
+			(at 182.88 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11078,7 +10988,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 187.96 0)
+			(at 182.88 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11087,7 +10997,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 187.96 0)
+			(at 182.88 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11096,7 +11006,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 187.96 0)
+			(at 182.88 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11457,7 +11367,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 190.5 185.42 0)
+		(at 182.88 185.42 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11466,7 +11376,7 @@
 		(dnp no)
 		(uuid "428db2b3-4c35-42ae-a2d5-bdf61e0663b8")
 		(property "Reference" "C21"
-			(at 190.5 177.8 0)
+			(at 182.88 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11474,7 +11384,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 190.5 180.34 0)
+			(at 182.88 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11482,7 +11392,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 190.5 185.42 0)
+			(at 182.88 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11491,7 +11401,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.chip1stop.com/products/Murata-Manufacturing/GRM188R72A104MA35D/MURA*0127806"
-			(at 190.5 185.42 0)
+			(at 182.88 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11500,7 +11410,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 185.42 0)
+			(at 182.88 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11937,7 +11847,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.42 62.23 0)
+		(at 182.88 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11945,7 +11855,7 @@
 		(dnp no)
 		(uuid "53403cd7-f655-4f3d-9dd8-e02991582ec2")
 		(property "Reference" "#PWR016"
-			(at 185.42 68.58 0)
+			(at 182.88 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11954,7 +11864,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.42 66.04 0)
+			(at 182.88 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11962,7 +11872,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 62.23 0)
+			(at 182.88 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11971,7 +11881,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 62.23 0)
+			(at 182.88 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11980,7 +11890,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 62.23 0)
+			(at 182.88 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12787,7 +12697,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 194.31 143.51 0)
+		(at 199.39 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12795,7 +12705,7 @@
 		(dnp no)
 		(uuid "641cc200-bb6f-4bdc-9021-f384c60eee1d")
 		(property "Reference" "#PWR019"
-			(at 194.31 149.86 0)
+			(at 199.39 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12804,7 +12714,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 194.31 147.32 0)
+			(at 199.39 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12812,7 +12722,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 194.31 143.51 0)
+			(at 199.39 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12821,7 +12731,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 143.51 0)
+			(at 199.39 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12830,7 +12740,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 194.31 143.51 0)
+			(at 199.39 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12852,7 +12762,7 @@
 	)
 	(symbol
 		(lib_id "_platinumegg:TC7SH00FU")
-		(at 194.31 76.2 0)
+		(at 199.39 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12860,7 +12770,7 @@
 		(dnp no)
 		(uuid "6750e3d6-5861-46b2-ba08-4797faec64e1")
 		(property "Reference" "U2"
-			(at 190.5 80.01 0)
+			(at 195.58 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12868,8 +12778,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TC7SH00FU"
-			(at 190.5 82.55 0)
+		(property "Value" "TC7S04FU"
+			(at 195.58 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12878,7 +12788,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 195.58 76.2 0)
+			(at 200.66 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12886,8 +12796,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g115748/"
-			(at 195.58 95.25 0)
+		(property "Datasheet" "https://toshiba.semicon-storage.com/info/TC7S04FU_datasheet_ja_20140301.pdf?did=20187&prodName=TC7S04FU"
+			(at 200.66 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12895,8 +12805,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single NAND Gate, Low-Voltage CMOS"
-			(at 194.31 76.2 0)
+		(property "Description" ""
+			(at 199.39 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13209,7 +13119,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 191.77 124.46 0)
+		(at 182.88 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13217,7 +13127,7 @@
 		(dnp no)
 		(uuid "6cbd6a3f-835f-4c92-b7c7-cd75d03d47fd")
 		(property "Reference" "#PWR017"
-			(at 191.77 130.81 0)
+			(at 182.88 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13226,7 +13136,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 191.77 128.27 0)
+			(at 182.88 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13234,7 +13144,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.77 124.46 0)
+			(at 182.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13243,7 +13153,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 124.46 0)
+			(at 182.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13252,7 +13162,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 191.77 124.46 0)
+			(at 182.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13983,7 +13893,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 191.77 59.69 0)
+		(at 182.88 59.69 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13992,7 +13902,7 @@
 		(dnp no)
 		(uuid "890c4447-c7fb-40c8-89a5-bd37f25cbaa3")
 		(property "Reference" "C15"
-			(at 191.77 52.07 0)
+			(at 182.88 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14000,7 +13910,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 191.77 54.61 0)
+			(at 182.88 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14008,7 +13918,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 191.77 59.69 0)
+			(at 182.88 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14017,7 +13927,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.chip1stop.com/products/Murata-Manufacturing/GRM188R72A104MA35D/MURA*0127806"
-			(at 191.77 59.69 0)
+			(at 182.88 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14026,7 +13936,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 59.69 0)
+			(at 182.88 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14161,7 +14071,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 193.04 269.24 0)
+		(at 198.12 260.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14169,7 +14079,7 @@
 		(dnp no)
 		(uuid "8a0c121d-208c-44a4-9bad-f8409010e25f")
 		(property "Reference" "#PWR033"
-			(at 193.04 275.59 0)
+			(at 198.12 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14178,7 +14088,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 193.04 273.05 0)
+			(at 198.12 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14186,7 +14096,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 193.04 269.24 0)
+			(at 198.12 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14195,7 +14105,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 269.24 0)
+			(at 198.12 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14204,7 +14114,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 193.04 269.24 0)
+			(at 198.12 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14226,7 +14136,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 191.77 121.92 0)
+		(at 182.88 121.92 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14235,7 +14145,7 @@
 		(dnp no)
 		(uuid "8b1f23bb-1a3e-4d79-8efc-4c2aa8ca0992")
 		(property "Reference" "C16"
-			(at 191.77 114.3 0)
+			(at 182.88 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14243,7 +14153,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 191.77 116.84 0)
+			(at 182.88 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14251,7 +14161,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 191.77 121.92 0)
+			(at 182.88 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14260,7 +14170,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.chip1stop.com/products/Murata-Manufacturing/GRM188R72A104MA35D/MURA*0127806"
-			(at 191.77 121.92 0)
+			(at 182.88 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14269,7 +14179,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 121.92 0)
+			(at 182.88 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14431,7 +14341,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 193.04 207.01 0)
+		(at 198.12 198.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14439,7 +14349,7 @@
 		(dnp no)
 		(uuid "918f12c1-a095-48cd-935b-a372ff6312c8")
 		(property "Reference" "#PWR032"
-			(at 193.04 213.36 0)
+			(at 198.12 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14448,7 +14358,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 193.04 210.82 0)
+			(at 198.12 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14456,7 +14366,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 193.04 207.01 0)
+			(at 198.12 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14465,7 +14375,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 207.01 0)
+			(at 198.12 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14474,7 +14384,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 193.04 207.01 0)
+			(at 198.12 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15262,7 +15172,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 190.5 250.19 0)
+		(at 182.88 250.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15270,7 +15180,7 @@
 		(dnp no)
 		(uuid "a6a4a3ab-a8f3-4e4e-9012-2adedff35da4")
 		(property "Reference" "#PWR031"
-			(at 190.5 256.54 0)
+			(at 182.88 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15279,7 +15189,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 190.5 254 0)
+			(at 182.88 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15287,7 +15197,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 250.19 0)
+			(at 182.88 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15296,7 +15206,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 250.19 0)
+			(at 182.88 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15305,7 +15215,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 250.19 0)
+			(at 182.88 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15475,7 +15385,7 @@
 	)
 	(symbol
 		(lib_id "_platinumegg:TC7SH00FU")
-		(at 194.31 138.43 0)
+		(at 199.39 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15483,7 +15393,7 @@
 		(dnp no)
 		(uuid "a91808fa-9734-41c0-8809-f2adbfd941e3")
 		(property "Reference" "U3"
-			(at 190.5 142.24 0)
+			(at 195.58 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15491,8 +15401,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TC7SH00FU"
-			(at 190.5 144.78 0)
+		(property "Value" "TC7S04FU"
+			(at 195.58 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15501,7 +15411,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 195.58 138.43 0)
+			(at 200.66 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15509,8 +15419,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g115748/"
-			(at 195.58 157.48 0)
+		(property "Datasheet" "https://toshiba.semicon-storage.com/info/TC7S04FU_datasheet_ja_20140301.pdf?did=20187&prodName=TC7S04FU"
+			(at 200.66 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15518,8 +15428,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single NAND Gate, Low-Voltage CMOS"
-			(at 194.31 138.43 0)
+		(property "Description" ""
+			(at 199.39 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17048,7 +16958,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 194.31 81.28 0)
+		(at 199.39 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17056,7 +16966,7 @@
 		(dnp no)
 		(uuid "c73d215b-5bc2-420d-872c-5d9e73e2b2b8")
 		(property "Reference" "#PWR018"
-			(at 194.31 87.63 0)
+			(at 199.39 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17065,7 +16975,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 194.31 85.09 0)
+			(at 199.39 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17073,7 +16983,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 194.31 81.28 0)
+			(at 199.39 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17082,7 +16992,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 81.28 0)
+			(at 199.39 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17091,7 +17001,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 194.31 81.28 0)
+			(at 199.39 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18055,7 +17965,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 190.5 247.65 0)
+		(at 182.88 247.65 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18064,7 +17974,7 @@
 		(dnp no)
 		(uuid "e4d8d4ca-e917-4203-ba05-9f9055cceb02")
 		(property "Reference" "C22"
-			(at 190.5 240.03 0)
+			(at 182.88 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18072,7 +17982,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 190.5 242.57 0)
+			(at 182.88 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18080,7 +17990,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 190.5 247.65 0)
+			(at 182.88 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18089,7 +17999,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.chip1stop.com/products/Murata-Manufacturing/GRM188R72A104MA35D/MURA*0127806"
-			(at 190.5 247.65 0)
+			(at 182.88 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18098,7 +18008,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 247.65 0)
+			(at 182.88 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
